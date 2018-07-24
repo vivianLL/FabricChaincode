@@ -1,0 +1,2 @@
+# FabricChaincode
+基于Fabric编写的一个实现投标中标记账功能的链码
