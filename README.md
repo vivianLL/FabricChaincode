@@ -1,4 +1,4 @@
-# FabricChaincode
+# FabricChaincodeAndDeployment（4Org）
 基于Fabric编写的一个多机多组织实现投标中标记账功能的链码
 具体功能：
 发布合约-招标
